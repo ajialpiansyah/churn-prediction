@@ -4,7 +4,9 @@ Predicting whether a customer will churn based on their characteristics.
 
 Features:
 
-RowNumber: The sequential number assigned to each row in the dataset. CustomerId: A unique identifier for each customer.
+RowNumber: The sequential number assigned to each row in the dataset. 
+
+CustomerId: A unique identifier for each customer.
 
 Surname: The surname of the customer.
 
